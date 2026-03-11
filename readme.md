@@ -56,4 +56,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Desenvolvido por Brendpw durante estudos com a Rocketseat 🚀
+Desenvolvido por Brendow durante estudos com a Rocketseat 🚀
